@@ -9,7 +9,7 @@
   <chdir></chdir>
   <priority>normal</priority>
   <downloadUrl>http://java.com/download</downloadUrl>
-  <supportUrl>http://assignment.github.io/csvsorter/</supportUrl>
+  <supportUrl>https://github.com/nilegauthamreddy/Assignment</supportUrl>
   <stayAlive>false</stayAlive>
   <manifest></manifest>
  
